@@ -35,3 +35,20 @@ code {
     width: 36vw;
     height: 60vw;
 }
+
+.clsHoverTaget{
+    cursor: pointer;
+}
+
+circle.clsSelected1{
+    fill-opacity: 1;
+}
+circle.clsSelected2{
+    fill-opacity: 0.5;
+}
+circle.clsUnSelected{
+    fill-opacity: 0;
+}
+circle.clsNoSelected{
+    fill-opacity: 0.8;
+}
